@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gramillaapp.github.io/grammilla-support/sitemap.xml
